@@ -1,4 +1,4 @@
-##  Declaración de Uso de IA (Control Crítico)
+##  Declaración de Uso de IA 
 
 Para armar este trabajo de forma individual, usé Inteligencia Artificial como un asistente de la siguiente manera:
 
